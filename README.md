@@ -39,3 +39,4 @@ yarn add fmt-wxapp-promise
 
 ## Other
 更多配置信息可以参考一下vue的package.json [vue-package](https://github.com/vuejs/vue/blob/dev/package.json)
+小程序 API Promise
