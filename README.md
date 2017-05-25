@@ -1,4 +1,4 @@
-# fmtr-wxapp-promise 继wxapp-promise1.0.4之后
+# fmtr-wxapp-promise
 
 turn api of wxapp to promise 把微信小程序 api 转成 promise. 功能是从 [labrador](https://github.com/maichong/labrador) 提取得到。
 实现参考由[weapp-promise](https://github.com/GreedBell/weapp-promise)提供。
